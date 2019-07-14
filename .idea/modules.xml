@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/tic-tac-toe.iml" filepath="$PROJECT_DIR$/.idea/tic-tac-toe.iml" />
       <module fileurl="file://$PROJECT_DIR$/tic-tac-toe-core/tic-tac-toe-core.iml" filepath="$PROJECT_DIR$/tic-tac-toe-core/tic-tac-toe-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tic-tac-toe-ui-console/tic-tac-toe-ui-console.iml" filepath="$PROJECT_DIR$/tic-tac-toe-ui-console/tic-tac-toe-ui-console.iml" />
     </modules>
   </component>
 </project>

@@ -12,6 +12,7 @@
 
     <modules>
         <module>tic-tac-toe-core</module>
+        <module>tic-tac-toe-ui-console</module>
     </modules>
 
 
